@@ -1,6 +1,10 @@
 import Form from "./components/Form";
 import Header from "./components/Header";
 
+export const metafata = {
+  title: 'Reserve at Menu of Milestones Grill'
+}
+
 export default function ReservationPage(){
   return (
 
